@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @antitank19
 - 👀 I’m interested in becoming a back-end developer first, then a full stack developer
-- 🌱 I’m currently a software engineering student at FPT University in the 5th semester out of 9, learning JavaOOP, Java Web applictaion, JavaScript, C# and .NET
+- 🌱 I graduated as a software engineering student at FPT University, learned React, Java Web applictaion, C# and .NET
 -     In the near future, I plan on learning back-end frameworks.
 - 📫 How to reach me
   + Email: trankhaiminhkhoi10a3@gmail.com
